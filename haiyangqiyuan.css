@@ -1,4 +1,26 @@
-body {background-color:black}
+body {background-color:black;
+       width:960px;
+       margin-left:auto;
+       margin-right:auto;
+       border-width:10px;
+       border-style:solid;
+       border-radlus:5px;
+       padding-left:20px;
+       padding-right:20px
+}
+haiyang/haiyang1.jpg {
+    border-width:5px;
+    border-style:solid;
+    border-color:pink;
+    border-radlus:10px
+}
+img {
+    float:left;
+} 
+
+haiyang/haiyang1.jpg-end {
+   clear:both;
+}
 h1 {color:blue}
 p {color:white}
 h2 {color:pink}
