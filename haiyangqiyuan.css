@@ -8,7 +8,7 @@ body {background-color:black;
        padding-left:20px;
        padding-right:20px
 }
-haiyang/haiyang1.jpg {
+div.haiyang/haiyang1.jpg {
     border-width:5px;
     border-style:solid;
     border-color:pink;
@@ -18,7 +18,7 @@ img {
     float:left;
 } 
 
-haiyang/haiyang1.jpg-end {
+div.haiyang/haiyang1.jpg-end {
    clear:both;
 }
 h1 {color:blue}
