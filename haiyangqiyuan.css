@@ -22,6 +22,20 @@ img {
 div.haiyang/haiyang1.jpg-end {
    clear:both;
 }
+
+div.haiyang/haiyang5.jpg {
+    border-width:5px;
+    border-style:solid;
+    border-color:pink;
+    border-radlus:10px
+}
+img {
+    float:right;
+} 
+
+div.haiyang/haiyang5.jpg-end {
+   clear:both;
+}
 h1 {color:biue}
 p {color:black}
 h2 {color:pink}
